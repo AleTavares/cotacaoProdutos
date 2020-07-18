@@ -1,0 +1,2 @@
+# cotacaoProdutos
+Procurando por um notebook novo para as aulas de Ciência de Dados na DSA? Pensando em comprar um novo computador para começar a empreender desenvolvendo aplicações analíticas? Sem tempo para ficar pesquisando pelas inúmeras opções disponíveis na internet?    Por que não criar seu próprio Web Scraper, que vai buscar, comparar e analisar diversas opções de notebooks para você e listar em uma tabela para sua escolha com os filtros que você especificar?   
